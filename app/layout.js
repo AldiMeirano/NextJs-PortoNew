@@ -11,7 +11,7 @@ export const metadata = {
     title: "Aldi Meirano || Portofolio",
     description:
       "Aldi Meirano created a portfolio using NEXT.JS for the first time ",
-    Image: [{ url: "../public/images/gunung.jpg" }],
+    Image: [{ url: "../app/gunung.jpg" }],
   },
 };
 
